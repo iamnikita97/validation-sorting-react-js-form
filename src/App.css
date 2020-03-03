@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+  margin-top: 0px;
+  padding: 25px;
+  border: 3px solid black;
+}
+
+.container {
+  background-image: url(./image/images55.jpeg);
+}
+
+.form-control {
+  width: 50%;
+  border: 1px solid black;
+  padding: 10px;
+  display: initial;
+  margin: 2px 297px;
+  font-family: sans-serif;
+}
+
+.control-error {
+  border: 1px solid red;
+}
+
+.btn-primary {
+  margin: 3px 523px 18px;
+  font-size: 22px;
+}
+
+.heading {
+  text-shadow: 0px 1px 20px black;
+  box-shadow: 0 0 20px 4px black;
+  margin: 9px 384px 24px;
+  border: 1px solid black;
+  font-family: -webkit-body;
+}
+
+.table-name {
+  font-size: 19px;
+  color: darkorange;
+}
+
+.fa-user:before {
+  content: "\f007";
+  margin: 5px;
+}
+
+.fa-address-book:before {
+  content: "\f2b9";
+  margin: 5px;
+}
+
+.fa-envelope:before {
+  content: "\f0e0";
+  margin: 5px;
+}
+
+.fa-intersex:before, .fa-transgender:before {
+  content: "\f224";
+  margin: 5px;
+}
